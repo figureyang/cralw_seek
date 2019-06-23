@@ -1,0 +1,751 @@
+[INFO  - 2017-09-04T00:49:49.156Z] GhostDriver - Main - running on port 43127
+[INFO  - 2017-09-04T00:49:49.556Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:49:49.556Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:49:49.556Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:49:49.556Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f47b6f00-910a-11e7-ba68-79bb52ed54f6
+[ERROR - 2017-09-04T00:49:54.040Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:49:54.040Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:49:54.151Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:49:54.151Z] Session [f47b6f00-910a-11e7-ba68-79bb52ed54f6] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:49:56.321Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:49:56.829Z] GhostDriver - Main - running on port 3911
+[INFO  - 2017-09-04T00:49:57.028Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:49:57.028Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:49:57.028Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:49:57.029Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f8ef6af0-910a-11e7-9bec-87f6cefc6dd4
+[ERROR - 2017-09-04T00:50:00.686Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:00.686Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:00.703Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:00.703Z] Session [f8ef6af0-910a-11e7-9bec-87f6cefc6dd4] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:02.318Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:02.782Z] GhostDriver - Main - running on port 47668
+[INFO  - 2017-09-04T00:50:03.016Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:03.016Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:03.016Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:03.016Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fc811d30-910a-11e7-8174-e7f5ee0cadf8
+[ERROR - 2017-09-04T00:50:06.385Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:06.385Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:06.413Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:06.413Z] Session [fc811d30-910a-11e7-8174-e7f5ee0cadf8] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:07.709Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:08.193Z] GhostDriver - Main - running on port 16597
+[INFO  - 2017-09-04T00:50:08.414Z] Session [ffb8c890-910a-11e7-82bf-c9c3ec938bc3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:08.414Z] Session [ffb8c890-910a-11e7-82bf-c9c3ec938bc3] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:08.414Z] Session [ffb8c890-910a-11e7-82bf-c9c3ec938bc3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:08.414Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ffb8c890-910a-11e7-82bf-c9c3ec938bc3
+[INFO  - 2017-09-04T00:50:18.647Z] GhostDriver - Main - running on port 14975
+[INFO  - 2017-09-04T00:50:19.105Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:19.105Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:19.105Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:19.105Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 061840d0-910b-11e7-b7e9-d1c57d189682
+[ERROR - 2017-09-04T00:50:22.351Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:22.351Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:22.366Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:22.366Z] Session [061840d0-910b-11e7-b7e9-d1c57d189682] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:23.600Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:24.069Z] GhostDriver - Main - running on port 41926
+[INFO  - 2017-09-04T00:50:24.302Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:24.302Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:24.302Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:24.303Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 093140a0-910b-11e7-a27b-0fc6b5eb5ef3
+[ERROR - 2017-09-04T00:50:25.962Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:25.962Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:25.979Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:25.979Z] Session [093140a0-910b-11e7-a27b-0fc6b5eb5ef3] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:27.489Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:27.946Z] GhostDriver - Main - running on port 39170
+[INFO  - 2017-09-04T00:50:28.184Z] Session [0b817230-910b-11e7-ab66-5d1a26beee8d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:28.184Z] Session [0b817230-910b-11e7-ab66-5d1a26beee8d] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:28.184Z] Session [0b817230-910b-11e7-ab66-5d1a26beee8d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:28.184Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0b817230-910b-11e7-ab66-5d1a26beee8d
+[INFO  - 2017-09-04T00:50:36.279Z] GhostDriver - Main - running on port 17549
+[INFO  - 2017-09-04T00:50:36.710Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:36.711Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:36.711Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:36.711Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 10969020-910b-11e7-9fe8-99512379d4c0
+[ERROR - 2017-09-04T00:50:39.684Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:39.684Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:39.704Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:39.704Z] Session [10969020-910b-11e7-9fe8-99512379d4c0] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:41.126Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:41.707Z] GhostDriver - Main - running on port 45697
+[INFO  - 2017-09-04T00:50:41.844Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:41.844Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:41.844Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:41.844Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 13a5f300-910b-11e7-b174-e7c5db9c538f
+[ERROR - 2017-09-04T00:50:43.259Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:43.259Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:43.280Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:43.280Z] Session [13a5f300-910b-11e7-b174-e7c5db9c538f] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:44.571Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:45.031Z] GhostDriver - Main - running on port 20346
+[INFO  - 2017-09-04T00:50:45.278Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:45.278Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:45.278Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:45.278Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 15b1c890-910b-11e7-ba23-af05c780901e
+[ERROR - 2017-09-04T00:50:48.044Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:48.044Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:48.077Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:48.078Z] Session [15b1c890-910b-11e7-ba23-af05c780901e] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:49.836Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:50.336Z] GhostDriver - Main - running on port 28630
+[INFO  - 2017-09-04T00:50:50.547Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:50.547Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:50.547Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:50.548Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 18d5c4e0-910b-11e7-8058-b7f7b0282a4a
+[ERROR - 2017-09-04T00:50:53.807Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:53.807Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:53.830Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:53.830Z] Session [18d5c4e0-910b-11e7-8058-b7f7b0282a4a] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:55.400Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:55.861Z] GhostDriver - Main - running on port 18712
+[INFO  - 2017-09-04T00:50:56.096Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:50:56.096Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:50:56.096Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:50:56.096Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1c24a1c0-910b-11e7-802b-a5cb9657755a
+[ERROR - 2017-09-04T00:50:57.868Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:50:57.868Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:50:57.891Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:50:57.891Z] Session [1c24a1c0-910b-11e7-802b-a5cb9657755a] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:50:59.452Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:50:59.960Z] GhostDriver - Main - running on port 41564
+[INFO  - 2017-09-04T00:51:00.158Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:51:00.158Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:51:00.158Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:51:00.159Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1e904a90-910b-11e7-be12-3de599fef852
+[ERROR - 2017-09-04T00:51:01.606Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:51:01.607Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:51:01.624Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:51:01.624Z] Session [1e904a90-910b-11e7-be12-3de599fef852] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:51:03.057Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:51:03.546Z] GhostDriver - Main - running on port 42527
+[INFO  - 2017-09-04T00:51:03.765Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:51:03.765Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:51:03.765Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:51:03.765Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 20b6ad00-910b-11e7-9d6c-e555c8cf27dd
+[ERROR - 2017-09-04T00:51:06.870Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:51:06.870Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:51:06.903Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:51:06.903Z] Session [20b6ad00-910b-11e7-9d6c-e555c8cf27dd] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:51:08.144Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:51:08.855Z] GhostDriver - Main - running on port 18545
+[INFO  - 2017-09-04T00:51:09.185Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:51:09.185Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:51:09.186Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:51:09.186Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 23f1b3c0-910b-11e7-a1ad-95631e52ab78
+[ERROR - 2017-09-04T00:51:10.604Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:51:10.604Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:51:10.623Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:51:10.624Z] Session [23f1b3c0-910b-11e7-a1ad-95631e52ab78] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:51:12.508Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:51:12.970Z] GhostDriver - Main - running on port 45996
+[INFO  - 2017-09-04T00:51:13.212Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:51:13.212Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:51:13.213Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:51:13.213Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 26585380-910b-11e7-8ff1-b9a078a41946
+[ERROR - 2017-09-04T00:51:14.615Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:51:14.616Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:51:14.631Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:51:14.631Z] Session [26585380-910b-11e7-8ff1-b9a078a41946] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:51:16.434Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:51:16.894Z] GhostDriver - Main - running on port 29552
+[INFO  - 2017-09-04T00:51:17.140Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:51:17.140Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:51:17.140Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:51:17.141Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 28afb100-910b-11e7-9853-4503e21e5fc4
+[ERROR - 2017-09-04T00:51:20.253Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:51:20.253Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:51:20.268Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:51:20.268Z] Session [28afb100-910b-11e7-9853-4503e21e5fc4] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T00:51:21.537Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T00:51:21.998Z] GhostDriver - Main - running on port 15606
+[INFO  - 2017-09-04T00:51:22.242Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T00:51:22.242Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T00:51:22.242Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T00:51:22.242Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2bba31e0-910b-11e7-86fd-cbd5fce0a740
+[ERROR - 2017-09-04T00:51:25.669Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T00:51:25.669Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T00:51:25.685Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T00:51:25.685Z] Session [2bba31e0-910b-11e7-86fd-cbd5fce0a740] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:29:46.953Z] GhostDriver - Main - running on port 29494
+[INFO  - 2017-09-04T01:29:47.428Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:29:47.428Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:29:47.428Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:29:47.429Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 89b982f0-9110-11e7-82a1-1901b7466ba1
+[ERROR - 2017-09-04T01:29:50.720Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:29:50.720Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:29:50.739Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:29:50.739Z] Session [89b982f0-9110-11e7-82a1-1901b7466ba1] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:29:53.367Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:29:53.829Z] GhostDriver - Main - running on port 20426
+[INFO  - 2017-09-04T01:29:54.074Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:29:54.074Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:29:54.074Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:29:54.074Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8daf9c50-9110-11e7-94bf-2fc48a0b484f
+[ERROR - 2017-09-04T01:29:55.473Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:29:55.473Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:29:55.504Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:29:55.505Z] Session [8daf9c50-9110-11e7-94bf-2fc48a0b484f] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:29:57.908Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:29:58.397Z] GhostDriver - Main - running on port 34312
+[INFO  - 2017-09-04T01:29:58.605Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:29:58.605Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:29:58.606Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:29:58.606Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9062fc80-9110-11e7-afe5-e76db9fc8236
+[ERROR - 2017-09-04T01:30:01.885Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:01.885Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:01.907Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:01.907Z] Session [9062fc80-9110-11e7-afe5-e76db9fc8236] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:03.609Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:04.094Z] GhostDriver - Main - running on port 5783
+[INFO  - 2017-09-04T01:30:04.311Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:04.311Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:04.311Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:04.311Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 93c9a720-9110-11e7-843d-9784b9605b44
+[ERROR - 2017-09-04T01:30:05.699Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:05.699Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:05.718Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:05.718Z] Session [93c9a720-9110-11e7-843d-9784b9605b44] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:08.052Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:08.532Z] GhostDriver - Main - running on port 4442
+[INFO  - 2017-09-04T01:30:08.751Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:08.751Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:08.751Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:08.751Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 966f24a0-9110-11e7-8ae2-2f883c44aea8
+[ERROR - 2017-09-04T01:30:10.374Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:10.374Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:10.397Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:10.397Z] Session [966f24a0-9110-11e7-8ae2-2f883c44aea8] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:13.249Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:13.705Z] GhostDriver - Main - running on port 2953
+[INFO  - 2017-09-04T01:30:13.954Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:13.954Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:13.954Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:13.954Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9988e7c0-9110-11e7-b542-993c7919f819
+[ERROR - 2017-09-04T01:30:15.565Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:15.565Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:15.583Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:15.583Z] Session [9988e7c0-9110-11e7-b542-993c7919f819] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:17.866Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:18.315Z] GhostDriver - Main - running on port 45560
+[INFO  - 2017-09-04T01:30:18.561Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:18.561Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:18.562Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:18.562Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9c482ed0-9110-11e7-8c91-73ce5fbf5fb9
+[ERROR - 2017-09-04T01:30:20.023Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:20.023Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:20.042Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:20.042Z] Session [9c482ed0-9110-11e7-8c91-73ce5fbf5fb9] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:22.125Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:22.597Z] GhostDriver - Main - running on port 14979
+[INFO  - 2017-09-04T01:30:22.828Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:22.829Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:22.829Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:22.829Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9ed34680-9110-11e7-8258-87d284781c5f
+[ERROR - 2017-09-04T01:30:26.176Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:26.176Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:26.193Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:26.193Z] Session [9ed34680-9110-11e7-8258-87d284781c5f] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:28.278Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:28.736Z] GhostDriver - Main - running on port 36590
+[INFO  - 2017-09-04T01:30:28.975Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:28.975Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:28.975Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:28.975Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a27d3bb0-9110-11e7-8b18-531a088fc7b7
+[ERROR - 2017-09-04T01:30:30.714Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:30.714Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:30.744Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:30.744Z] Session [a27d3bb0-9110-11e7-8b18-531a088fc7b7] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:33.215Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:33.668Z] GhostDriver - Main - running on port 42425
+[INFO  - 2017-09-04T01:30:33.916Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:33.916Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:33.916Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:33.916Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a56f2b80-9110-11e7-8549-5d65103e8228
+[ERROR - 2017-09-04T01:30:37.179Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:37.179Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:37.201Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:37.201Z] Session [a56f2b80-9110-11e7-8549-5d65103e8228] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:38.978Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:39.430Z] GhostDriver - Main - running on port 24007
+[INFO  - 2017-09-04T01:30:39.676Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:39.676Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:39.676Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:39.676Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a8de1380-9110-11e7-a3dd-01132faebbd6
+[ERROR - 2017-09-04T01:30:41.164Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:41.164Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:41.183Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:41.183Z] Session [a8de1380-9110-11e7-a3dd-01132faebbd6] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:43.675Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:44.123Z] GhostDriver - Main - running on port 33986
+[INFO  - 2017-09-04T01:30:44.372Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:44.372Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:44.372Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:44.372Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: abaa79f0-9110-11e7-9d61-0b75bacc988a
+[ERROR - 2017-09-04T01:30:45.971Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:45.971Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:45.993Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:45.993Z] Session [abaa79f0-9110-11e7-9d61-0b75bacc988a] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:48.381Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:48.830Z] GhostDriver - Main - running on port 29180
+[INFO  - 2017-09-04T01:30:49.079Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:49.079Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:49.079Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:49.079Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ae78b520-9110-11e7-81be-3709f4116e9a
+[ERROR - 2017-09-04T01:30:50.763Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:50.763Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:50.851Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:50.852Z] Session [ae78b520-9110-11e7-81be-3709f4116e9a] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:53.260Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:30:53.705Z] GhostDriver - Main - running on port 43922
+[INFO  - 2017-09-04T01:30:53.955Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:30:53.955Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:30:53.955Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:30:53.955Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b160b9e0-9110-11e7-ab21-4102703c2ae9
+[ERROR - 2017-09-04T01:30:55.947Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:30:55.947Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:30:55.973Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:30:55.973Z] Session [b160b9e0-9110-11e7-ab21-4102703c2ae9] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:30:59.578Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:31:00.031Z] GhostDriver - Main - running on port 48467
+[INFO  - 2017-09-04T01:31:00.282Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:31:00.282Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:31:00.282Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:31:00.283Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b5264d60-9110-11e7-b25c-e9786c3a873c
+[ERROR - 2017-09-04T01:31:03.529Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:31:03.529Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:31:03.549Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:31:03.549Z] Session [b5264d60-9110-11e7-b25c-e9786c3a873c] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:31:05.401Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:31:05.850Z] GhostDriver - Main - running on port 37260
+[INFO  - 2017-09-04T01:31:06.098Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:31:06.098Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:31:06.098Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:31:06.098Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b89d99d0-9110-11e7-a7c8-b5027eaccdf4
+[ERROR - 2017-09-04T01:31:07.425Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:31:07.425Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:31:07.441Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:31:07.441Z] Session [b89d99d0-9110-11e7-a7c8-b5027eaccdf4] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:31:09.805Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:31:10.251Z] GhostDriver - Main - running on port 45443
+[INFO  - 2017-09-04T01:31:10.503Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:31:10.503Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:31:10.503Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:31:10.504Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bb3de730-9110-11e7-91f7-5b17a77fe29b
+[ERROR - 2017-09-04T01:31:12.392Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:31:12.393Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:31:12.413Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:31:12.413Z] Session [bb3de730-9110-11e7-91f7-5b17a77fe29b] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:31:15.179Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:31:15.655Z] GhostDriver - Main - running on port 2944
+[INFO  - 2017-09-04T01:31:15.881Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:31:15.881Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:31:15.881Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:31:15.881Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: be725e40-9110-11e7-9b63-996058b7dd7d
+[ERROR - 2017-09-04T01:31:19.196Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:31:19.196Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:31:19.211Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:31:19.212Z] Session [be725e40-9110-11e7-9b63-996058b7dd7d] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:31:22.047Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-09-04T01:31:22.558Z] GhostDriver - Main - running on port 33092
+[INFO  - 2017-09-04T01:31:22.751Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-04T01:31:22.751Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - page.customHeaders:  - {}
+[INFO  - 2017-09-04T01:31:22.752Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-04T01:31:22.752Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c28a5780-9110-11e7-84aa-3530e8bc0c07
+[ERROR - 2017-09-04T01:31:24.058Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - page.onError - msg: TypeError: undefined is not an object (evaluating 'O.default.name')
+[ERROR - 2017-09-04T01:31:24.058Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - page.onError - stack:
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  n (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  d (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+  (anonymous function) (https://seekcdn.com/search/houston/1.0.3162/main.js:1)
+[ERROR - 2017-09-04T01:31:24.096Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - page.onError - msg: [WDS] Disconnected!
+[ERROR - 2017-09-04T01:31:24.096Z] Session [c28a5780-9110-11e7-84aa-3530e8bc0c07] - page.onError - stack:
+  error (:0)
+[INFO  - 2017-09-04T01:36:22.572Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T01:41:22.582Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T01:46:22.592Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T01:51:22.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T01:56:22.612Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:01:22.622Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:06:22.632Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:11:22.646Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:16:22.658Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:21:22.668Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:26:22.680Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:31:22.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:36:22.700Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:41:22.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:46:22.725Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:51:22.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T02:56:22.744Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:01:22.756Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:06:22.766Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:11:22.776Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:16:22.785Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:21:22.795Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:26:22.805Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:31:22.815Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:36:22.825Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:41:22.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:46:22.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:51:22.859Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T03:56:22.868Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:01:22.878Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:06:22.889Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:11:22.898Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:16:22.918Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:21:22.929Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:26:22.939Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:31:22.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:36:22.960Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:41:22.970Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:46:22.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:51:22.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T04:56:22.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:01:23.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:06:23.019Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:11:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:16:23.039Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:21:23.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:26:23.058Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:31:23.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:36:23.078Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:41:23.088Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:46:23.098Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:51:23.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T05:56:23.117Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:01:23.127Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:06:23.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:11:23.147Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:16:23.156Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:21:23.166Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:26:23.176Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:31:23.186Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:36:23.196Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:41:23.204Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:46:23.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:51:23.222Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T06:56:23.231Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:01:23.240Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:06:23.250Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:11:23.259Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:16:23.269Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:21:23.278Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:26:23.287Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:31:23.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:36:23.306Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:41:23.316Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:46:23.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:51:23.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T07:56:23.344Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T08:01:23.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T08:06:23.363Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T08:11:23.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:01:40.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:06:40.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:11:40.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:16:40.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:21:40.371Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:26:40.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:31:40.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:36:40.401Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:41:40.411Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:46:40.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:51:40.431Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T09:56:40.441Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:01:40.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:06:40.461Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:11:40.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:16:40.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:21:40.491Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:26:40.500Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:31:40.511Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:36:40.521Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:41:40.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:46:40.550Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:51:40.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T10:56:40.569Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:01:40.578Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:06:40.589Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:11:40.598Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:16:40.609Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:21:40.618Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:26:40.627Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:31:40.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:36:40.645Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:41:40.653Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:46:40.662Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:51:40.672Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T11:56:40.683Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:01:40.694Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:06:40.702Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:11:40.711Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:16:40.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:21:40.730Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:26:40.745Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:31:40.758Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:36:40.768Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:41:40.776Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:46:40.785Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:51:40.793Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T12:56:40.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:01:40.817Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:06:40.825Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:11:40.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:16:40.844Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:21:40.853Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:26:40.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:31:40.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:36:40.879Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:41:40.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:46:40.896Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:51:40.905Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T13:56:40.914Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:01:40.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:06:40.936Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:11:40.945Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:16:40.953Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:21:40.962Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:26:40.971Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:31:40.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-09-04T14:36:41.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

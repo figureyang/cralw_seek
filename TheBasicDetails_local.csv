@@ -1,0 +1,8 @@
+jobLinks,/Users/jingfeiyang/Desktop/clps/data_of_the_first_project/practice/JobsLinks_NT.csv
+jobDetails,/Users/jingfeiyang/Desktop/clps/data_of_the_first_project/practice/JobsLinks_Detail.csv
+databaseURL,jdbc:mysql://localhost:3306?useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false
+username,root
+password,yjf1992918
+phantomjs,/usr/local/bin/phantomjs
+deletePreviousData,yes
+database,clps_peter_yang
